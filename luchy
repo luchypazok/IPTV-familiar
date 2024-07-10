@@ -72,6 +72,8 @@ http://190.60.34.170:8000/play/a01d
 https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b.m3u8
 #EXTINF:-1,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1,Animax Brasil
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720674272/ei/gBOPZq2cBoyYobIP3am--Ac/ip/186.22.246.131/id/e1929fff865fb2b1/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D36995648%3Bdur%3D108.875%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1681480776384553/rqh/1/hls_chunk_host/rr3---sn-uxaxjxougv-x1xe7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/JZ/mm/31,29/mn/sn-uxaxjxougv-x1xe7,sn-x1x7dn7s/ms/au,rdu/mv/m/mvi/3/pcm2cms/yes/pl/24/initcwndbps/1138750/vprv/1/playlist_type/DVR/dover/13/txp/5432434/mt/1720652472/fvip/1/short_key/1/keepalive/yes/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRAIgVXXD0-Q8r1vGI5xTtq-XM-5IkHOrOVuhdIrE9SVbJN0CIHeeK29fKavGs9wOzpTv6vU7-KO4a4yxYfyzJuFD86pE/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,initcwndbps/lsig/AHlkHjAwRAIgSMlOcLPDYPrwUVMS_OBMaUnN4Hum_hmfz4we9NDWYUMCIAcC44Ee6Cz-C7Ziv4ZV4Z_heAoeFhAOYBCCVfU4CBkF/playlist/index.m3u8
 #EXTINF:-1,Dreamworks
 http://181.119.86.68:8000/play/b013/index.m3u8
 #EXTINF:-1,Discovery Kids
