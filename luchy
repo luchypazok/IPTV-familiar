@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,El Chavo del 8
+https://live.sdfgnksbounce.com:8080/MTg2LjIyLjI0Ni4xMzE=/150_.m3u8?token=3iAuoH661uEve5RynjIx4g&expires=1720855351
 #EXTINF:-1,Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
 #EXTINF:-1,C5N
