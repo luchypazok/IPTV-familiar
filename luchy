@@ -44,14 +44,12 @@ http://181.78.106.127:9000/play/ca012/index.m3u8
 http://170.82.37.21:8000/play/a02n/index.m3u8
 #EXTINF:-1,Las Estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1,Canal 12 Televisión Pública Regional - Trenque Lauquen
-https://anym3u8player.com/youtube.php/id/66818db133742.m3u8
 #EXTINF:-1,Paka Paka
 http://181.78.27.128:8000/play/a04x/index.m3u8
 #EXTINF:-1,BabyTV
 http://181.78.8.90:16123/play/ch01
 #EXTINF:-1,Cartoon Network
-http://38.7.223.20:8000/play/a00d
+http://45.175.139.194:8000/play/22
 #EXTINF:-1,Cartoonito
 http://177.126.51.9:8001/play/a024
 #EXTINF:-1,Tooncast
@@ -68,6 +66,8 @@ http://38.252.158.1:8000/play/a00y
 http://190.60.34.170:8000/play/a01d
 #EXTINF:-1,Toonizaki
 https://streaming-cl.sh1ny.space/memfs/fb2dbceb-85ed-4957-9216-7a3922ece1cb.m3u8
+#EXTINF:-1,Night Time
+https://cdnhd.iblups.com/hls/cTyg8oyNGU.m3u8
 #EXTINF:-1,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Dreamworks
