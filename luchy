@@ -64,10 +64,6 @@ http://181.78.105.146:8800/play/a04l
 http://38.252.158.1:8000/play/a00y
 #EXTINF:-1,Disney Junior
 http://190.60.34.170:8000/play/a01d
-#EXTINF:-1,Toonizaki
-https://streaming-cl.sh1ny.space/memfs/fb2dbceb-85ed-4957-9216-7a3922ece1cb.m3u8
-#EXTINF:-1,Toonizaki Panregional
-https://streaming-cl.sh1ny.space/memfs/d7398610-5740-4ddc-89b2-6023a5f7ab29.m3u8
 #EXTINF:-1,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Dreamworks
@@ -91,13 +87,13 @@ http://38.252.157.62:8000/play/29
 #EXTINF:-1,Volver
 http://45.172.16.186:8000/play/a0pj
 #EXTINF:-1,HBO
-http://38.41.8.1:8000/play/a01u
+http://200.59.191.6:5000/play/a020
 #EXTINF:-1,HBO 2
 http://177.93.46.163:8000/play/a00m
 #EXTINF:-1,HBO Plus
 http://177.93.46.163:8000/play/a00n
 #EXTINF:-1,HBO Family
-http://38.7.223.20:8000/play/a01g
+http://192.141.99.3:8000/play/a03a
 #EXTINF:-1,HBO Signature
 http://45.172.16.186:8000/play/a0pu
 #EXTINF:-1,HBO POP
