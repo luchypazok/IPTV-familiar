@@ -44,6 +44,12 @@ http://181.78.106.127:9000/play/ca012/index.m3u8
 http://170.82.37.21:8000/play/a02n/index.m3u8
 #EXTINF:-1,Las Estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1,TNT
+http://38.41.8.1:8000/play/a00s
+#EXTINF:-1,TNT Series
+http://45.160.12.200:8008/play/108
+#EXTINF:-1,TNT Novelas
+http://38.43.151.206:8000/play/a05y/index.m3u8
 #EXTINF:-1,Paka Paka
 http://181.78.27.128:8000/play/a04x/index.m3u8
 #EXTINF:-1,BabyTV
@@ -158,8 +164,6 @@ http://38.41.8.1:8000/play/a05v
 http://45.5.117.182:8000/play/a0j5/index.m3u8
 #EXTINF:-1,Studio Universal
 http://200.59.188.3:8000/play/a06r
-#EXTINF:-1,TNT Series
-http://45.172.16.186:8000/play/a0rw
 #EXTINF:-1,AXN
 http://38.41.8.1:8000/play/a009
 #EXTINF:-1,Discovery
@@ -174,14 +178,10 @@ http://138.186.20.13:23200/play/a04t
 http://177.234.230.226:8010/play/a02g/index.m3u8
 #EXTINF:-1,Comedy Central
 http://181.78.105.146:8800/play/a064
-#EXTINF:-1,TNT Novelas
-http://38.43.151.206:8000/play/a05y/index.m3u8
 #EXTINF:-1,Lifetime
 http://45.181.122.13:8000/play/056
 #EXTINF:-1,Cinecanal
 http://45.181.121.194:8000/play/107
-#EXTINF:-1,TNT
-http://38.41.8.1:8000/play/a00s
 #EXTINF:-1,TCM
 http://38.252.158.1:8000/play/a023
 #EXTINF:-1,SPACE
@@ -210,15 +210,6 @@ http://181.78.105.146:8800/play/a047
 http://181.78.4.250:8098/play/a034/index.m3u8
 #EXTINF:-1,Telehit
 http://38.252.157.62:8000/play/62
-#EXTINF:-1,Magic Club Opción 3
-https://live.web.buzzster.co.uk/magicclub/index.m3u8
 #EXTINF:-1,Radio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
-#EXTINF:-1,Tradicional Radio
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0107
-#EXTINF:-1,CAM Pinamar
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0164
-#EXTINF:-1,CAM Pinamar 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0166
-#EXTINF:-1,CAM Pinamar 3
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0167
+
