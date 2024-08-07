@@ -56,6 +56,8 @@ http://181.78.27.128:8000/play/a04x/index.m3u8
 http://181.78.8.90:16123/play/ch01
 #EXTINF:-1,Cartoon Network
 http://45.175.139.194:8000/play/22
+#EXTINF:-1,Adult Swim
+http://190.61.42.218:9000/play/a00u
 #EXTINF:-1,Cartoonito
 http://177.126.51.9:8001/play/a024
 #EXTINF:-1,Tooncast
@@ -63,16 +65,14 @@ http://45.181.122.13:8000/play/016
 #EXTINF:-1,Boing
 http://45.153.96.44:8000/play/a00y
 #EXTINF:-1,Nickelodeon
-http://168.90.14.118:8282/play/a02x
-#EXTINF:-1,Nickelodeon Opción 2
-http://190.60.34.170:8000/play/a02x
+http://190.121.143.3:8000/play/a02x
 #EXTINF:-1,TeenNick
 http://177.93.37.53:8000/play/a02r/index.m3u8
 #EXTINF:-1,Nick Jr.
 http://177.93.46.163:8000/play/a02b
 #EXTINF:-1,Disney Channel
 http://38.252.158.1:8000/play/a00y
-#EXTINF:-1,Disney Junior
+#EXTINF:-1,Disney Jr.
 http://190.60.34.170:8000/play/a01d
 #EXTINF:-1,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
@@ -86,8 +86,6 @@ http://38.7.223.20:8000/play/a02s
 http://181.78.4.250:8098/play/0122/index.m3u8
 #EXTINF:-1,Animax Brasil
 https://stream.ichibantv.com:3547/stream/play.m3u8
-#EXTINF:-1,Adult Swim
-http://190.14.249.39:8000/play/a02a
 #EXTINF:-1,Telefe Internacional
 http://201.139.174.68:8001/play/a01l/index.m3u8
 #EXTINF:-1,Golden Plus
