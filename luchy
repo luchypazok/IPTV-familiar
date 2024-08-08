@@ -33,11 +33,11 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1,NeoTV Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,Canal 26
-http://45.181.122.220:8888/play/a020
+https://anym3u8player.com/youtube.php/id/66b51f88886d6.m3u8
 #EXTINF:-1,Encuentro
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+http://181.209.114.13:8000/play/a01m/index.m3u8
 #EXTINF:-1,Unife TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8?p=79&s=1717797446&e=1717797566&h=16654bc5d2d750c24a2c89ff7b34e50d
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 #EXTINF:-1,Canal 5 México
 http://181.78.106.127:9000/play/ca012/index.m3u8
 #EXTINF:-1,Azteca 7
@@ -81,17 +81,17 @@ http://190.14.228.107:8000/play/a02z
 #EXTINF:-1,Discovery Kids
 http://45.181.122.13:8000/play/017
 #EXTINF:-1,ETC TV
-http://38.7.223.20:8000/play/a02s
+http://45.160.12.200:8008/play/007
 #EXTINF:-1,BitMe
-http://181.78.4.250:8098/play/0122/index.m3u8
+http://45.175.139.194:8000/play/a018
 #EXTINF:-1,Animax Brasil
 https://stream.ichibantv.com:3547/stream/play.m3u8
 #EXTINF:-1,Telefe Internacional
-http://201.139.174.68:8001/play/a01l/index.m3u8
+http://181.78.4.250:8098/play/a04f/index.m3u8
 #EXTINF:-1,Golden Plus
-http://38.7.223.20:8000/play/a01j
+http://204.157.96.1:8875/play/a0c7/index.m3u8
 #EXTINF:-1,Golden Edge
-http://38.252.157.62:8000/play/29
+http://181.119.86.68:8000/play/b039/index.m3u8
 #EXTINF:-1,Volver
 http://45.172.16.186:8000/play/a0pj
 #EXTINF:-1,HBO
@@ -189,7 +189,7 @@ http://38.252.157.62:8000/play/52
 #EXTINF:-1,History 
 http://38.41.8.1:8000/play/a04p
 #EXTINF:-1,History 2
-http://38.7.223.20:8000/play/a01f
+http://38.41.8.1:8000/play/a030
 #EXTINF:-1,Animal Planet
 http://38.252.157.62:8000/play/47
 #EXTINF:-1,TLC
