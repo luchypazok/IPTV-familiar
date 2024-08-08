@@ -103,13 +103,13 @@ http://177.93.46.163:8000/play/a00n
 #EXTINF:-1,HBO Family
 http://192.141.99.3:8000/play/a03a
 #EXTINF:-1,HBO Signature
-http://45.172.16.186:8000/play/a0pu
+http://181.191.141.47:8000/play/a0e5/index.m3u8
 #EXTINF:-1,HBO POP
 http://38.7.223.20:8000/play/a01z
 #EXTINF:-1,HBO Xtreme
-http://38.41.8.1:8000/play/a05j
+http://192.141.99.3:8000/play/a039
 #EXTINF:-1,HBO Mundi
-http://45.181.120.177:8000/play/a0he
+http://204.157.96.1:8875/play/a0ef/index.m3u8
 #EXTINF:-1,Universal Premiere
 http://200.59.188.3:8000/play/a06t
 #EXTINF:-1,Universal Cinema
@@ -119,9 +119,9 @@ http://170.83.242.9:4000/play/a0kq
 #EXTINF:-1,Universal Crime
 http://181.78.105.146:8800/play/a06a
 #EXTINF:-1,Universal Reality
-http://186.179.64.37:8000/play/a03m/index.m3u8
+http://181.78.105.146:6060/play/a03r
 #EXTINF:-1,Sony Movies
-http://177.126.51.9:8001/play/a05n
+http://38.252.158.1:8000/play/a036
 #EXTINF:-1,A&E
 http://38.41.8.1:8000/play/a006
 #EXTINF:-1,ESPN 6
@@ -132,14 +132,10 @@ http://38.41.8.1:8000/play/a01d
 http://38.41.8.1:8000/play/a02z
 #EXTINF:-1,Ciudad Magazine
 http://45.172.16.186:8000/play/a0pz
-#EXTINF:-1,El canal de la ciudad
-http://45.5.151.151:8000/play/a0lf/index.m3u8
-#EXTINF:-1,BD Network
-https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8 
 #EXTINF:-1,Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,AMC
-http://45.172.16.186:8000/play/a0ph
+http://181.78.15.155:9800/play/AMC
 #EXTINF:-1,El Gourmet
 http://38.41.8.1:8000/play/a012
 #EXTINF:-1,STAR Channel
