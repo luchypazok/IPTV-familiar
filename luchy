@@ -93,7 +93,7 @@ http://204.157.96.1:8875/play/a0c7/index.m3u8
 #EXTINF:-1,Golden Edge
 http://181.119.86.68:8000/play/b039/index.m3u8
 #EXTINF:-1,Volver
-http://45.172.16.186:8000/play/a0pj
+http://181.191.140.2:8000/play/a0fp/index.m3u8
 #EXTINF:-1,HBO
 http://200.59.191.6:5000/play/a020
 #EXTINF:-1,HBO 2
@@ -131,7 +131,7 @@ http://38.41.8.1:8000/play/a01d
 #EXTINF:-1,ESPN Premium
 http://38.41.8.1:8000/play/a02z
 #EXTINF:-1,Ciudad Magazine
-http://45.172.16.186:8000/play/a0pz
+http://181.191.140.2:8000/play/a0g1/index.m3u8
 #EXTINF:-1,Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,AMC
