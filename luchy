@@ -43,7 +43,7 @@ http://181.78.106.127:9000/play/ca012/index.m3u8
 #EXTINF:-1,Azteca 7
 http://170.82.37.21:8000/play/a02n/index.m3u8
 #EXTINF:-1,Las Estrellas
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://45.175.139.194:8000/play/58
 #EXTINF:-1,TNT
 http://38.41.8.1:8000/play/a00s
 #EXTINF:-1,TNT Series
