@@ -88,6 +88,8 @@ http://45.160.12.200:8008/play/007
 http://45.175.139.194:8000/play/a018
 #EXTINF:-1,Canal Hex
 https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8?nimblesessionid=40097847
+#EXTINF:-1,Teletoonizaki
+https://mitv.zplay.cl/TeletoonizakiHD/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1,Animax Brasil
 https://stream.ichibantv.com:3547/stream/play.m3u8
 #EXTINF:-1,Telefe Internacional
