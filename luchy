@@ -64,6 +64,8 @@ http://45.238.20.83:8000/play/a1ad
 https://searchtv.net/stream/uuid/356zbi52/
 #EXTINF:-1,Boing
 http://45.153.96.44:8000/play/a00y
+#EXTINF:-1,CN City
+https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1,Nickelodeon
 http://190.60.34.170:8000/play/a02x
 #EXTINF:-1,TeenNick
