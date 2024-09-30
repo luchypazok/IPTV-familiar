@@ -64,10 +64,8 @@ http://154.198.57.34:8000/play/24
 http://38.252.158.1:8000/play/a03i
 #EXTINF:-1,Boing
 http://45.153.96.44:8000/play/a00y
-#EXTINF:-1,CN City
-https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1,Nickelodeon
-http://181.209.114.13:8000/play/a04z/index.m3u8
+http://45.4.3.77:8000/play/a03e
 #EXTINF:-1,TeenNick
 http://181.78.105.146:8800/play/a04l
 #EXTINF:-1,Nick Jr.
@@ -218,4 +216,5 @@ http://45.175.139.194:8000/play/62
 http://154.198.57.34:8000/play/63
 #EXTINF:-1,Radio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
-
+#EXTINF:-1,CN City
+https://envivo.cncity.live/hls/cncity.m3u8
