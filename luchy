@@ -58,6 +58,10 @@ http://181.78.8.90:16123/play/ch01
 http://45.175.139.194:8000/play/22
 #EXTINF:-1,Adult Swim
 http://190.14.249.39:8000/play/a02a
+#EXTINF:-1,Kanade TV
+https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8?fbclid=IwY2xjawFwK8tleHRuA2FlbQIxMAABHVS3vtftim_PUTJrwmNGbCaxRfyuF_a4jJvLKSvzWej8hScrGA9itEgr4w_aem_GpCgT5gT_2b_t3qoY7qzQQ
+#EXTINF:-1,CN City
+https://envivo.cncity.live/hls/cncity.m3u8
 #EXTINF:-1,Cartoonito
 http://154.198.57.34:8000/play/24
 #EXTINF:-1,Tooncast
@@ -216,5 +220,3 @@ http://45.175.139.194:8000/play/62
 http://154.198.57.34:8000/play/63
 #EXTINF:-1,Radio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
-#EXTINF:-1,CN City
-https://envivo.cncity.live/hls/cncity.m3u8
