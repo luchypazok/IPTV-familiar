@@ -58,6 +58,8 @@ http://181.78.8.90:16123/play/ch01
 http://45.175.139.194:8000/play/22
 #EXTINF:-1,Adult Swim
 http://190.14.249.39:8000/play/a02a
+#EXTINF:-1,Adult Swim México
+http://mundoena.ddnsking.com:80/play/lYmufDL5XTT477ZDZcZSQivNmDxaPkG-rL3XXq8vCNOG14JPe9TKD5VvpzYnBoV2/ts
 #EXTINF:-1,Kanade TV
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8?fbclid=IwY2xjawFwK8tleHRuA2FlbQIxMAABHVS3vtftim_PUTJrwmNGbCaxRfyuF_a4jJvLKSvzWej8hScrGA9itEgr4w_aem_GpCgT5gT_2b_t3qoY7qzQQ
 #EXTINF:-1,Rocket Channel
