@@ -60,7 +60,7 @@ http://179.1.33.2:4000/play/a0z9
 http://190.14.249.39:8000/play/a02a
 #EXTINF:-1,Kanade TV
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8?fbclid=IwY2xjawFwK8tleHRuA2FlbQIxMAABHVS3vtftim_PUTJrwmNGbCaxRfyuF_a4jJvLKSvzWej8hScrGA9itEgr4w_aem_GpCgT5gT_2b_t3qoY7qzQQ
-#EXTINF:-1,Toonami Channel
+#EXTINF:-1,Toonami Channel (No funciona aún)
 https://mitv.zplay.cl/RocketChannel/index.m3u8
 #EXTINF:-1,CN City
 https://envivo.cncity.live/hls/cncity.m3u8
