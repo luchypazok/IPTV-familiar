@@ -55,7 +55,7 @@ http://181.78.27.128:8000/play/a04x/index.m3u8
 #EXTINF:-1,BabyTV
 http://181.78.8.90:16123/play/ch01
 #EXTINF:-1,Cartoon Network
-http://179.1.33.2:4000/play/a0z9
+http://38.56.113.50:11211/play/a0lq/index.m3u8
 #EXTINF:-1,Adult Swim
 http://190.14.249.39:8000/play/a02a
 #EXTINF:-1,Kanade TV
