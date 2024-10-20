@@ -69,7 +69,7 @@ http://154.198.57.34:8000/play/24
 #EXTINF:-1,Tooncast
 http://190.61.117.35:8000/play/a021
 #EXTINF:-1,Boing
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+http://176.65.146.225:8401/play/a09i
 #EXTINF:-1,Nickelodeon
 http://192.141.99.3:8000/play/a009
 #EXTINF:-1,TeenNick
